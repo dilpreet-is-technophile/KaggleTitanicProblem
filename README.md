@@ -14,4 +14,4 @@ The best result I got in terms of accuracy is by using SVM but the model still h
 ### The Results
 All the results that I got from various algorithms are stored in their respective .csv files
 
-Also to get more details about Titanic problem and dataset files (train.csv and test.csv) visit ttps://www.kaggle.com/c/titanic/overview
+Also to get more details about Titanic problem and dataset files (train.csv and test.csv) visit https://www.kaggle.com/c/titanic/overview
